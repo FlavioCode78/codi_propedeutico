@@ -2,4 +2,8 @@ El archivo Pruebas.css es un archivo de Pruebas
 El contenido del archivo sufrira algunos cambios
 Nota que hay un error en la extension la linea 1
 Mas adelante vamos a resolver ese error
+<<<<<<< HEAD
 esta linea fua añadida desde master
+=======
+linea nueva
+>>>>>>> 6a5f5cb850794139f4c2123311b36b4bee32d05f
